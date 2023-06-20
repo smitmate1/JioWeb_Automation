@@ -1,0 +1,5 @@
+tabtext:                                       [Stores,Service Centers,Hotspots]
+locateus_URL:                                  ["https://www.jio.com/selfcare/locate-us/"]
+locateus_text:                                 [Locate us,Jio Hotspot,Join our best mobile and fiber services from the comfort of your home,Get Directions,Get Jio SIM,Get JioFiber]
+LocateUs_GetJioSIM_URL:                        https://www.jio.com/selfcare/interest/sim/?utm_source=StoreLocator&utm_medium=Banner
+LocateUs_GetJioFiber_URL:                      https://www.jio.com/selfcare/interest/fiber/?utm_source=StoreLocator&utm_medium=Banner
