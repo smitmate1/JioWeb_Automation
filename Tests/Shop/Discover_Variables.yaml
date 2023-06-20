@@ -1,0 +1,8 @@
+# Shop--> Discover URL
+Discover:                   xpath=//section[@class="j-container"]/a[@aria-label="Discover"]
+# First Banner Redirection URL's
+Top_Banner_Redirecton:      ["https://www.jio.com/shop/en-in/wifi-mesh-extender-jcm0112/p/491392171","https://www.jio.com/shop/en-in/jiotag/p/491600763","https://www.jio.com/selfcare/interest/sim/"]
+# Launched and it’s here! Section Redirection URL's
+Launched_URL:               ["https://www.jio.com/shop/en-in/jiodive-smartphone-based-vr-headset/p/493071913",'https://www.jio.com/shop/en-in/jiotag/p/491600763',"https://www.jio.com/shop/en-in/bluetooth-game-controller-jgc-100/p/491894897"]
+# Excel Sheet Name
+Excel_Sheet_Name_Discover:  Shop_Discover

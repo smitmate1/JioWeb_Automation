@@ -1,0 +1,19 @@
+#Add_to_Cart Popup Message
+Add_to_Cart_Message:          Product has been added to your cart!
+#Add_to_Cart Popup Question
+Add_to_Cart_Question:                     Would you like to explore more products or go to cart?
+#Shopping_Cart Table Details
+Table_Heading:                ['Items','Product Name','Quantity', 'Item Price']
+#PersonalDetails Page URL
+PersonalDetails_Checkout_URL:     https://www.jio.com/shop/checkout/multi/add-personal-details
+#DeliveryDetails Page URL
+DeliveryDetails_Checkout_URL:     https://www.jio.com/shop/checkout/multi/add-delivery-address
+#Cart Page URL
+Cart_URL:                         https://www.jio.com/shop/cart
+#Field Error Message
+Error_Message:                ['Errors were found with the details provided. Please check the errors below and re-submit your details.']
+Error_Message_1:              ['Errors were found with the address you provided. Please check the errors below and re-submit your address.']
+# Payment Method Name
+Payment_method_name:          ['UPI',"Credit Card","Debit Card","Net Banking","Wallet","Standard EMI"]
+#Add_to_Cart Sheetname
+Excel_Sheet_Name_AddtoCart:   Shop_Add_to_Cart

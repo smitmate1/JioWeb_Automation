@@ -1,0 +1,15 @@
+# JioFi sub-nav bar in shop page
+JioFi:                      //section[@class="j-container"]/a[@aria-label="JioFi"]
+Privacy_Policy:             https://www.jio.com/jcms/en-in/rrl-policy/
+#  Go to cart url
+GoToCart_Url:               https://www.jio.com/shop/cart
+# Filter types
+Filter_Title:               ["Price range","Brand","Battery capacity","Colour","Processor",]
+# Filter types container
+Filter_Container:           ["Price","Jio","Battery Capacity in mAh","Black","Qualcomm MDM9207"]
+# Accordian text
+JioFi_description:          ["Key Features","Technical Specs","Shipping & Delivery","Offers & Information"]
+# Accordian description Id
+JioFi_description_Id:       ["tab-details","tab-specification","tab-shipping","tab-guarantees"]
+# Stock Available icon
+Stock_Availaibility_icon :  xpath=(//div[@class="localityAdditionalInfo"]//*[local-name()='svg'])[5]
