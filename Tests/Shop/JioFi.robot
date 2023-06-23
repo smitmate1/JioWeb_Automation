@@ -5,7 +5,7 @@ Resource                                ../../Resources/Common.robot
 Variables                               JioFi_Variables.yaml 
 Resource                                ../../Resources/Tags.robot
 Variables                               ../../Resources/Tester_Input.yaml 
-Suite Setup                             Shop Jio Fi Tag Activity
+# Suite Setup                             Shop Jio Fi Tag Activity
 Test Setup                              Begin Web Test
 Test Teardown                           End Web Test
 

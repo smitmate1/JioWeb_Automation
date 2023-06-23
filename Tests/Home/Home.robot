@@ -9,7 +9,7 @@ Variables                           ../../Resources/Common_Variables.yaml
 Variables                           variables.yaml
 Variables                           ../../Resources/Tester_Input.yaml 
 
-Suite Setup                         Home Tags Activity
+# Suite Setup                         Home Tags Activity
 
 Test Setup                          Begin Web Test
 Test Teardown                       End Web Test

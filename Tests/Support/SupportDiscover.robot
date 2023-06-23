@@ -3,7 +3,7 @@ Resource                        ../../Resources/Support/SupportDiscover_Page.rob
 Resource                        ../../Resources/Common.robot
 Resource                        ../../Resources/Tags.robot
 Variables                       ../../Resources/Tester_Input.yaml 
-Suite Setup                     Support Discover Tag Activity
+# Suite Setup                     Support Discover Tag Activity
 Test Setup                      Begin Web Test
 Test Teardown                   End Web Test
 

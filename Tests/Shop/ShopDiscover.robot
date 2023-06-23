@@ -5,7 +5,7 @@ Resource                                  ../../Resources/Common.robot
 Variables                                 Discover_Variables.yaml
 Resource                                  ../../Resources/Tags.robot
 Variables                                 ../../Resources/Tester_Input.yaml 
-Suite Setup                               Shop Discover Tag Activity
+# Suite Setup                               Shop Discover Tag Activity
 Test Setup                                Begin Web Test
 Test Teardown                             End Web Test
 

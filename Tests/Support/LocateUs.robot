@@ -3,7 +3,7 @@ Resource                        ../../Resources/Common.robot
 Resource                        ../../Resources/Support/SupportLocateUs_Page.robot
 Resource                        ../../Resources/Tags.robot
 Variables                       ../../Resources/Tester_Input.yaml 
-Suite Setup                     Support Locate Us Tag Activity
+# Suite Setup                     Support Locate Us Tag Activity
 Test Setup                      Begin Web Test
 Test Teardown                   End Web Test
 

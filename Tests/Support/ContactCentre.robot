@@ -3,7 +3,7 @@ Resource                         ../../Resources/Common.robot
 Resource                        ../../Resources/Support/SupportContactCentre_Page.robot
 Resource                        ../../Resources/Tags.robot
 Variables                       ../../Resources/Tester_Input.yaml 
-Suite Setup                     Support Contact centre Tag Activity
+# Suite Setup                     Support Contact centre Tag Activity
 Test Setup                      Begin Web Test
 Test Teardown                   End Web Test
 

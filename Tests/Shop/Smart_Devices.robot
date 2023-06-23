@@ -5,7 +5,7 @@ Resource                         ../../Resources/Common.robot
 Variables                        Smart_Devices_Variables.yaml 
 Resource                         ../../Resources/Tags.robot
 Variables                        ../../Resources/Tester_Input.yaml 
-Suite Setup                      Shop Smartdevices Tag Activity
+# Suite Setup                      Shop Smartdevices Tag Activity
 Test Setup                       Begin Web Test
 Test Teardown                    End Web Test
 
