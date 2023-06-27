@@ -12,6 +12,7 @@ Shop:                           xpath=//nav[@id="firstlevel-nav"]//a[normalize-s
 Apps:                           xpath=//nav[@id="firstlevel-nav"]//a[normalize-space()='Apps']
 Support:                        xpath=//nav[@id="firstlevel-nav"]//a[normalize-space()='Support']
 SmartDevices:                   xpath=(//a[@parent-attr="Shop"])[3]
+
 # ------------------------------- Sub-NavBar Locators ----------------------------------------------------- 
   #! Shift these to respective POs
 button:                         //button[@id="AddToCartBTN"]
